@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://11851269k-ops.github.io/taiwan-phrase/sitemap.xml
