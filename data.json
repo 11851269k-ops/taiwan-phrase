@@ -1,0 +1,1186 @@
+[
+  {
+    "text": "真的假的？",
+    "zhuyin": "ㄓㄣ ˙ㄉㄜ ㄐㄧㄚˇ ㄉㄜ",
+    "pinyin": "zhēn de jiǎ de",
+    "meaning": "意味：マジで？",
+    "tag": "level1"
+  },
+  {
+    "text": "笑死",
+    "zhuyin": "ㄒㄧㄠˋ ㄙˇ",
+    "pinyin": "xiào sǐ",
+    "meaning": "意味：めっちゃ笑う",
+    "tag": "level1"
+  },
+  {
+    "text": "超扯",
+    "zhuyin": "ㄔㄠ ㄔㄜˇ",
+    "pinyin": "chāo chě",
+    "meaning": "意味：やばい",
+    "tag": "level1"
+  },
+  {
+    "text": "你在微笑。",
+    "zhuyin": "ㄋㄧˇ ㄗㄞˋ ㄨㄟˊ ㄒㄧㄠˋ",
+    "pinyin": "nǐ zài wēi xiào",
+    "meaning": "意味：あなたは微笑んでいる",
+    "tag": "level1"
+  },
+  {
+    "text": "后退一步。",
+    "zhuyin": "ㄏㄡˋ ㄊㄨㄟˋ ㄧˋ ㄅㄨˋ",
+    "pinyin": "hòu tuì yí bù",
+    "meaning": "意味：一歩下がって",
+    "tag": "level1"
+  },
+  {
+    "text": "让我看看。",
+    "zhuyin": "ㄖㄤˋ ㄨㄛˇ ㄎㄢˋ ㄎㄢˋ",
+    "pinyin": "ràng wǒ kàn kàn",
+    "meaning": "意味：見せて",
+    "tag": "level1"
+  },
+  {
+    "text": "让我们欢迎她。",
+    "zhuyin": "ㄖㄤˋ ㄨㄛˇ ㄇㄣ˙ ㄏㄨㄢ ㄧㄥ ㄊㄚ",
+    "pinyin": "ràng wǒ men huān yíng tā",
+    "meaning": "意味：彼女を歓迎しましょう",
+    "tag": "level2"
+  },
+  {
+    "text": "你要当游戏主持人吗？",
+    "zhuyin": "ㄋㄧˇ ㄧㄠˋ ㄉㄤ ㄧㄡˊ ㄒㄧˋ ㄓㄨˇ ㄔˊ ㄖㄣˊ ㄇㄚ˙",
+    "pinyin": "nǐ yào dāng yóu xì zhǔ chí rén ma",
+    "meaning": "意味：ゲームの司会者をやるの？",
+    "tag": "level2"
+  },
+  {
+    "text": "今天的任务很简单。",
+    "zhuyin": "ㄐㄧㄣ ㄊㄧㄢ ㄉㄜ ㄖㄣˋ ㄨˋ ㄏㄣˇ ㄐㄧㄢˇ ㄉㄢ",
+    "pinyin": "jīn tiān de rèn wù hěn jiǎn dān",
+    "meaning": "意味：今日の任務は簡単です",
+    "tag": "level1"
+  },
+  {
+    "text": "她是国际巨星。",
+    "zhuyin": "ㄊㄚ ㄕˋ ㄍㄨㄛˊ ㄐㄧˋ ㄐㄩˋ ㄒㄧㄥ",
+    "pinyin": "tā shì guó jì jù xīng",
+    "meaning": "意味：彼女は国際的なスターです",
+    "tag": "level2"
+  },
+  {
+    "text": "我会保护她。",
+    "zhuyin": "ㄨㄛˇ ㄏㄨㄟˋ ㄅㄠˇ ㄏㄨˋ ㄊㄚ",
+    "pinyin": "wǒ huì bǎo hù tā",
+    "meaning": "意味：私は彼女を守る",
+    "tag": "level2"
+  },
+  {
+    "text": "你要做得专业一点。",
+    "zhuyin": "ㄋㄧˇ ㄧㄠˋ ㄗㄨㄛˋ ˙ㄉㄜ ㄓㄨㄢ ㄧㄝˋ ㄧˋ ㄉㄧㄢˇ",
+    "pinyin": "nǐ yào zuò de zhuān yè yì diǎn",
+    "meaning": "意味：もう少しプロらしくやって",
+    "tag": "level3"
+  },
+  {
+    "text": "我真的很高兴。",
+    "zhuyin": "ㄨㄛˇ ㄓㄣ ㄉㄜ ㄏㄣˇ ㄍㄠ ㄒㄧㄥ",
+    "pinyin": "wǒ zhēn de hěn gāo xìng",
+    "meaning": "意味：本当に嬉しい",
+    "tag": "level1"
+  },
+  {
+    "text": "我们去吃饭吧。",
+    "zhuyin": "ㄨㄛˇ ㄇㄣ˙ ㄑㄩˋ ㄔ ㄈㄢˋ ㄅㄚ˙",
+    "pinyin": "wǒ men qù chī fàn ba",
+    "meaning": "意味：ご飯を食べに行こう",
+    "tag": "level1"
+  },
+  {
+    "text": "这个真的很好吃。",
+    "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄓㄣ ㄉㄜ ㄏㄣˇ ㄏㄠˇ ㄔ",
+    "pinyin": "zhè ge zhēn de hěn hǎo chī",
+    "meaning": "意味：これは本当においしい",
+    "tag": "level1"
+  },
+  {
+    "text": "这是台中最好吃的意大利面。",
+    "zhuyin": "ㄓㄜˋ ㄕˋ ㄊㄞˊ ㄓㄨㄥ ㄗㄨㄟˋ ㄏㄠˇ ㄔ ㄉㄜ ㄧˋ ㄉㄚˋ ㄌㄧˋ ㄇㄧㄢˋ",
+    "pinyin": "zhè shì tái zhōng zuì hǎo chī de yì dà lì miàn",
+    "meaning": "意味：これは台中で一番おいしいパスタです",
+    "tag": "level2"
+  },
+  {
+    "text": "你觉得怎么样？",
+    "zhuyin": "ㄋㄧˇ ㄐㄩㄝˊ ˙ㄉㄜ ㄗㄣˇ ㄇㄜ˙ ㄧㄤˋ",
+    "pinyin": "nǐ jué de zěn me yàng",
+    "meaning": "意味：どう思う？",
+    "tag": "level1"
+  },
+  {
+    "text": "我从来没听过这个地方。",
+    "zhuyin": "ㄨㄛˇ ㄘㄨㄥˊ ㄌㄞˊ ㄇㄟˊ ㄊㄧㄥ ㄍㄨㄛˋ ㄓㄜˋ ㄍㄜ˙ ㄉㄧˋ ㄈㄤ",
+    "pinyin": "wǒ cóng lái méi tīng guò zhè ge dì fāng",
+    "meaning": "意味：こんな場所は初めて聞いた",
+    "tag": "level2"
+  },
+  {
+    "text": "我想先试这个。",
+    "zhuyin": "ㄨㄛˇ ㄒㄧㄤˇ ㄒㄧㄢ ㄕˋ ㄓㄜˋ ㄍㄜ˙",
+    "pinyin": "wǒ xiǎng xiān shì zhè ge",
+    "meaning": "意味：これを先に試したい",
+    "tag": "level1"
+  },
+  {
+    "text": "你吃了很多。",
+    "zhuyin": "ㄋㄧˇ ㄔ ㄌㄜ˙ ㄏㄣˇ ㄉㄨㄛ",
+    "pinyin": "nǐ chī le hěn duō",
+    "meaning": "意味：たくさん食べたね",
+    "tag": "level1"
+  },
+  {
+    "text": "这个味道很好。",
+    "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄨㄟˋ ㄉㄠˋ ㄏㄣˇ ㄏㄠˇ",
+    "pinyin": "zhè ge wèi dào hěn hǎo",
+    "meaning": "意味：この味はとてもいい",
+    "tag": "level1"
+  },
+  {
+    "text": "有点辣。",
+    "zhuyin": "ㄧㄡˇ ㄉㄧㄢˇ ㄌㄚˋ",
+    "pinyin": "yǒu diǎn là",
+    "meaning": "意味：ちょっと辛い",
+    "tag": "level1"
+  },
+  {
+    "text": "我喜欢这个味道。",
+    "zhuyin": "ㄨㄛˇ ㄒㄧˇ ㄏㄨㄢ ㄓㄜˋ ㄍㄜ˙ ㄨㄟˋ ㄉㄠˋ",
+    "pinyin": "wǒ xǐ huan zhè ge wèi dào",
+    "meaning": "意味：この味が好き",
+    "tag": "level1"
+  },
+  {
+    "text": "这个看起来很漂亮。",
+    "zhuyin": "ㄓㄜˋ ㄍㄜ˙ ㄎㄢˋ ㄑㄧˇ ㄌㄞˊ ㄏㄣˇ ㄆㄧㄠˋ ㄌㄧㄤˋ",
+    "pinyin": "zhè ge kàn qǐ lái hěn piào liang",
+    "meaning": "意味：これはとてもきれいに見える",
+    "tag": "level1"
+  },
+  {
+    "text": "你喜欢猫吗？",
+    "zhuyin": "ㄋㄧˇ ㄒㄧˇ ㄏㄨㄢ ㄇㄠ ㄇㄚ˙",
+    "pinyin": "nǐ xǐ huan māo ma",
+    "meaning": "意味：猫は好き？",
+    "tag": "level1"
+  },
+  {
+    "text": "我想带一只回家。",
+    "zhuyin": "ㄨㄛˇ ㄒㄧㄤˇ ㄉㄞˋ ㄧ ㄓ ㄏㄨㄟˊ ㄐㄧㄚ",
+    "pinyin": "wǒ xiǎng dài yì zhī huí jiā",
+    "meaning": "意味：1匹連れて帰りたい",
+    "tag": "level2"
+  },
+  {
+    "text": "它真的很可爱。",
+    "zhuyin": "ㄊㄚ ㄓㄣ ㄉㄜ ㄏㄣˇ ㄎㄜˇ ài",
+    "pinyin": "tā zhēn de hěn kě ài",
+    "meaning": "意味：それは本当にかわいい",
+    "tag": "level1"
+  },
+  {
+    "text": "我们一起吃吧。",
+    "zhuyin": "ㄨㄛˇ ㄇㄣ˙ ㄧ ㄑㄧˇ ㄔ ㄅㄚ˙",
+    "pinyin": "wǒ men yì qǐ chī ba",
+    "meaning": "意味：一緒に食べよう",
+    "tag": "level1"
+  },
+  {
+    "text": "我太紧张了。",
+    "zhuyin": "ㄨㄛˇ ㄊㄞˋ ㄐㄧㄣˇ ㄓㄤ ㄌㄜ˙",
+    "pinyin": "wǒ tài jǐn zhāng le",
+    "meaning": "意味：すごく緊張している",
+    "tag": "level2"
+  },
+
+  {
+    "text": "你今天表现很好。",
+    "zhuyin": "ㄋㄧˇ ㄐㄧㄣ ㄊㄧㄢ ㄅㄧㄠˇ ㄒㄧㄢˋ ㄏㄣˇ ㄏㄠˇ",
+    "pinyin": "nǐ jīn tiān biǎo xiàn hěn hǎo",
+    "meaning": "意味：今日のあなたの出来はとても良い",
+    "tag": "level2"
+  },
+  {
+    "text": "我很满意。",
+    "zhuyin": "ㄨㄛˇ ㄏㄣˇ ㄇㄢˇ ㄧˋ",
+    "pinyin": "wǒ hěn mǎn yì",
+    "meaning": "意味：とても満足している",
+    "tag": "level1"
+  },
+  {
+    "text": "谢谢你们的邀请。",
+    "zhuyin": "ㄒㄧㄝˋ ㄒㄧㄝ˙ ㄋㄧˇ ㄇㄣ˙ ㄉㄜ ㄧㄠˋ ㄑㄧㄥˇ",
+    "pinyin": "xiè xie nǐ men de yāo qǐng",
+    "meaning": "意味：招待ありがとう",
+    "tag": "level1"
+  },
+  {
+    "text": "控制不住自己",
+    "zhuyin": "ㄎㄨㄥˋ ㄓˋ ㄅㄨˋ ㄓㄨˋ ㄗˋ ㄐㄧˇ",
+    "pinyin": "kòngzhì bú zhù zìjǐ",
+    "meaning": "自分を抑えられない",
+    "tag": "level4"
+  },
+  {
+    "text": "直到最後為止",
+    "zhuyin": "ㄓˊ ㄉㄠˋ ㄗㄨㄟˋ ㄏㄡˋ ㄨㄟˊ ㄓˇ",
+    "pinyin": "zhídào zuìhòu wéizhǐ",
+    "meaning": "最後までずっと",
+    "tag": "level3"
+  },
+  {
+    "text": "老實說我沒有",
+    "zhuyin": "ㄌㄠˇ ㄕˊ ㄕㄨㄛ ㄨㄛˇ ㄇㄟˊ ㄧㄡˇ",
+    "pinyin": "lǎoshí shuō wǒ méiyǒu",
+    "meaning": "正直言うと私はない",
+    "tag": "level3"
+  },
+  {
+    "text": "很多人願意互動",
+    "zhuyin": "ㄏㄣˇ ㄉㄨㄛ ㄖㄣˊ ㄩㄢˋ ㄧˋ ㄏㄨˋ ㄉㄨㄥˋ",
+    "pinyin": "hěn duō rén yuànyì hùdòng",
+    "meaning": "多くの人が交流したがる",
+    "tag": "level3"
+  },
+  {
+    "text": "我總是立即回覆",
+    "zhuyin": "ㄨㄛˇ ㄗㄨㄥˇ ㄕˋ ㄌㄧˋ ㄐㄧˊ ㄏㄨㄟˊ ㄈㄨˋ",
+    "pinyin": "wǒ zǒngshì lìjí huífù",
+    "meaning": "私はいつもすぐ返信する",
+    "tag": "level3"
+  },
+  {
+    "text": "評論可能太直接",
+    "zhuyin": "ㄆㄧㄥˊ ㄌㄨㄣˋ ㄎㄜˇ ㄋㄥˊ ㄊㄞˋ ㄓˊ ㄐㄧㄝ",
+    "pinyin": "pínglùn kěnéng tài zhíjiē",
+    "meaning": "コメントが直接的すぎるかもしれない",
+    "tag": "level3"
+  },
+  {
+    "text": "如果評論不合適",
+    "zhuyin": "ㄖㄨˊ ㄍㄨㄛˇ ㄆㄧㄥˊ ㄌㄨㄣˋ ㄅㄨˋ ㄏㄜˊ ㄕˋ",
+    "pinyin": "rúguǒ pínglùn bù héshì",
+    "meaning": "コメントが適切でないなら",
+    "tag": "level3"
+  },
+  {
+    "text": "暫時停止上傳",
+    "zhuyin": "ㄓㄢˋ ㄕˊ ㄊㄧㄥˊ ㄓˇ ㄕㄤˋ ㄔㄨㄢˊ",
+    "pinyin": "zhànshí tíngzhǐ shàngchuán",
+    "meaning": "一時的に投稿を止める",
+    "tag": "level2"
+  },
+  {
+    "text": "我不想上新聞",
+    "zhuyin": "ㄨㄛˇ ㄅㄨˋ ㄒㄧㄤˇ ㄕㄤˋ ㄒㄧㄣ ㄨㄣˊ",
+    "pinyin": "wǒ bù xiǎng shàng xīnwén",
+    "meaning": "ニュースになりたくない",
+    "tag": "level2"
+  },
+  {
+    "text": "回到台灣隔離",
+    "zhuyin": "ㄏㄨㄟˊ ㄉㄠˋ ㄊㄞˊ ㄨㄢ ㄍㄜˊ ㄌㄧˊ",
+    "pinyin": "huídào Táiwān gélí",
+    "meaning": "台湾に戻って隔離する",
+    "tag": "level2"
+  },
+  {
+    "text": "比較私人的行程",
+    "zhuyin": "ㄅㄧˇ ㄐㄧㄠˋ ㄙ ㄖㄣˊ ㄉㄜ˙ ㄒㄧㄥˊ ㄔㄥˊ",
+    "pinyin": "bǐjiào sīrén de xíngchéng",
+    "meaning": "比較的プライベートな予定",
+    "tag": "level3"
+  },
+  {
+    "text": "引起很大的轟動",
+    "zhuyin": "ㄧㄣˇ ㄑㄧˇ ㄏㄣˇ ㄉㄚˋ ㄉㄜ˙ ㄏㄨㄥ ㄉㄨㄥˋ",
+    "pinyin": "yǐnqǐ hěn dà de hōngdòng",
+    "meaning": "大きな話題になる",
+    "tag": "level4"
+  },
+  {
+    "text": "更多人聚集起來",
+    "zhuyin": "ㄍㄥˋ ㄉㄨㄛ ㄖㄣˊ ㄐㄩˋ ㄐㄧˊ ㄑㄧˇ ㄌㄞˊ",
+    "pinyin": "gèng duō rén jùjí qǐlái",
+    "meaning": "もっと多くの人が集まる",
+    "tag": "level3"
+  },
+  {
+    "text": "朋友會來幫助我",
+    "zhuyin": "ㄆㄥˊ ㄧㄡˇ ㄏㄨㄟˋ ㄌㄞˊ ㄅㄤ ㄓㄨˋ ㄨㄛˇ",
+    "pinyin": "péngyou huì lái bāngzhù wǒ",
+    "meaning": "友達が助けてくれる",
+    "tag": "level1"
+  },
+  {
+    "text": "很容易吸引人群",
+    "zhuyin": "ㄏㄣˇ ㄖㄨㄥˊ ㄧˋ ㄒㄧ ㄧㄣˇ ㄖㄣˊ ㄑㄩㄣˊ",
+    "pinyin": "hěn róngyì xīyǐn rénqún",
+    "meaning": "人を集めやすい",
+    "tag": "level3"
+  },
+  {
+    "text": "很多人不敢過來",
+    "zhuyin": "ㄏㄣˇ ㄉㄨㄛ ㄖㄣˊ ㄅㄨˋ ㄍㄢˇ ㄍㄨㄛˋ ㄌㄞˊ",
+    "pinyin": "hěn duō rén bù gǎn guòlái",
+    "meaning": "多くの人は近づけない",
+    "tag": "level2"
+  },
+  {
+    "text": "確認是不是真的",
+    "zhuyin": "ㄑㄩㄝˋ ㄖㄣˋ ㄕˋ ㄅㄨˋ ㄕˋ ㄓㄣ ㄉㄜ˙",
+    "pinyin": "quèrèn shì bú shì zhēn de",
+    "meaning": "本物か確認する",
+    "tag": "level3"
+  },
+  {
+    "text": "說完感到內疚",
+    "zhuyin": "ㄕㄨㄛ ㄨㄢˊ ㄍㄢˇ ㄉㄠˋ ㄋㄟˋ ㄐㄧㄡˋ",
+    "pinyin": "shuō wán gǎndào nèijiù",
+    "meaning": "言ったあと罪悪感を感じる",
+    "tag": "level4"
+  },
+  {
+    "text": "以前做過雷射除毛",
+    "zhuyin": "ㄧˇ ㄑㄧㄢˊ ㄗㄨㄛˋ ㄍㄨㄛˋ ㄌㄟˊ ㄕㄜˋ ㄔㄨˊ ㄇㄠˊ",
+    "pinyin": "yǐqián zuòguò léishè chúmáo",
+    "meaning": "前にレーザー脱毛をした",
+    "tag": "level3"
+  },
+  {
+    "text": "最尷尬的不是",
+    "zhuyin": "ㄗㄨㄟˋ ㄍㄢ ㄍㄚˋ ㄉㄜ˙ ㄅㄨˋ ㄕˋ",
+    "pinyin": "zuì gāngà de bú shì",
+    "meaning": "一番気まずいのは〜ではない",
+    "tag": "level4"
+  },
+  {
+    "text": "他的手在發抖",
+    "zhuyin": "ㄊㄚ ㄉㄜ˙ ㄕㄡˇ ㄗㄞˋ ㄈㄚ ㄉㄡˇ",
+    "pinyin": "tā de shǒu zài fādǒu",
+    "meaning": "手が震えている",
+    "tag": "level2"
+  },
+  {
+    "text": "至少拍漂亮一點",
+    "zhuyin": "ㄓˋ ㄕㄠˇ ㄆㄞ ㄆㄧㄠˋ ㄌㄧㄤˋ ㄧˋ ㄉㄧㄢˇ",
+    "pinyin": "zhìshǎo pāi piàoliang yìdiǎn",
+    "meaning": "せめて綺麗に撮って",
+    "tag": "level2"
+  },
+  {
+    "text": "公司指派我們設計",
+    "zhuyin": "ㄍㄨㄥ ㄙ ㄓˇ ㄆㄞˋ ㄨㄛˇ ㄇㄣ˙ ㄕㄜˋ ㄐㄧˋ",
+    "pinyin": "gōngsī zhǐpài wǒmen shèjì",
+    "meaning": "会社がデザインを任せる",
+    "tag": "level3"
+  },
+  {
+    "text": "每個季節都變化",
+    "zhuyin": "ㄇㄟˇ ㄍㄜˋ ㄐㄧˋ ㄐㄧㄝˊ ㄉㄡ ㄅㄧㄢˋ ㄏㄨㄚˋ",
+    "pinyin": "měi ge jìjié dōu biànhuà",
+    "meaning": "季節ごとに変わる",
+    "tag": "level2"
+  },
+
+  {
+    "text": "非常不理性的追星",
+    "zhuyin": "ㄈㄟ ㄔㄤˊ ㄅㄨˋ ㄌㄧˇ ㄒㄧㄥˋ ㄉㄜ˙ ㄓㄨㄟ ㄒㄧㄥ",
+    "pinyin": "fēicháng bù lǐxìng de zhuīxīng",
+    "meaning": "かなり非理性的な推し活",
+    "tag": "level4"
+  },
+  {
+    "text": "我真的不能接受",
+    "zhuyin": "ㄨㄛˇ ㄓㄣ ㄉㄜ˙ ㄅㄨˋ ㄋㄥˊ ㄐㄧㄝ ㄕㄡˋ",
+    "pinyin": "wǒ zhēn de bù néng jiēshòu",
+    "meaning": "本当に受け入れられない",
+    "tag": "level2"
+  },
+  {
+    "text": "應該做好時間管理",
+    "zhuyin": "ㄧㄥ ㄍㄞ ㄗㄨㄛˋ ㄏㄠˇ ㄕˊ ㄐㄧㄢ ㄍㄨㄢˇ ㄌㄧˇ",
+    "pinyin": "yīnggāi zuò hǎo shíjiān guǎnlǐ",
+    "meaning": "時間管理をしっかりすべき",
+    "tag": "level3"
+  },
+  {
+    "text": "資金管理也要好",
+    "zhuyin": "ㄗ ㄐㄧㄣ ㄍㄨㄢˇ ㄌㄧˇ ㄧㄝˇ ㄧㄠˋ ㄏㄠˇ",
+    "pinyin": "zījīn guǎnlǐ yě yào hǎo",
+    "meaning": "お金の管理も必要",
+    "tag": "level3"
+  },
+  {
+    "text": "生活唯一重要的事",
+    "zhuyin": "ㄕㄥ ㄏㄨㄛˊ ㄨㄟˊ ㄧ ㄓㄨㄥˋ ㄧㄠˋ ㄉㄜ˙ ㄕˋ",
+    "pinyin": "shēnghuó wéiyī zhòngyào de shì",
+    "meaning": "生活で唯一大事なこと",
+    "tag": "level4"
+  },
+  {
+    "text": "我們可以一起討論",
+    "zhuyin": "ㄨㄛˇ ㄇㄣ˙ ㄎㄜˇ ㄧˇ ㄧˋ ㄑㄧˇ ㄊㄠˇ ㄌㄨㄣˋ",
+    "pinyin": "wǒmen kěyǐ yìqǐ tǎolùn",
+    "meaning": "一緒に話し合える",
+    "tag": "level2"
+  },
+  {
+    "text": "眼不見心不煩",
+    "zhuyin": "ㄧㄢˇ ㄅㄨˋ ㄐㄧㄢˋ ㄒㄧㄣ ㄅㄨˋ ㄈㄢˊ",
+    "pinyin": "yǎn bú jiàn xīn bú fán",
+    "meaning": "見なければ悩まない",
+    "tag": "level3"
+  },
+  {
+    "text": "改變自己的心態",
+    "zhuyin": "ㄍㄞˇ ㄅㄧㄢˋ ㄗˋ ㄐㄧˇ ㄉㄜ˙ ㄒㄧㄣ ㄊㄞˋ",
+    "pinyin": "gǎibiàn zìjǐ de xīntài",
+    "meaning": "自分の考え方を変える",
+    "tag": "level3"
+  },
+  {
+    "text": "尊重他的興趣",
+    "zhuyin": "ㄗㄨㄣ ㄓㄨㄥˋ ㄊㄚ ㄉㄜ˙ ㄒㄧㄥˋ ㄑㄩˋ",
+    "pinyin": "zūnzhòng tā de xìngqù",
+    "meaning": "相手の趣味を尊重する",
+    "tag": "level2"
+  },
+  {
+    "text": "在財務能力範圍內",
+    "zhuyin": "ㄗㄞˋ ㄘㄞˊ ㄨˋ ㄋㄥˊ ㄌㄧˋ ㄈㄢˋ ㄨㄟˊ ㄋㄟˋ",
+    "pinyin": "zài cáiwù nénglì fànwéi nèi",
+    "meaning": "経済力の範囲内で",
+    "tag": "level4"
+  },
+  {
+    "text": "如此著迷的程度",
+    "zhuyin": "ㄖㄨˊ ㄘˇ ㄓㄨㄛˊ ㄇㄧˊ ㄉㄜ˙ ㄔㄥˊ ㄉㄨˋ",
+    "pinyin": "rúcǐ zhuómí de chéngdù",
+    "meaning": "そこまで夢中なレベル",
+    "tag": "level4"
+  },
+  {
+    "text": "忽略周圍重要的事",
+    "zhuyin": "ㄏㄨ ㄌㄩㄝˋ ㄓㄡ ㄨㄟˊ ㄓㄨㄥˋ ㄧㄠˋ ㄉㄜ˙ ㄕˋ",
+    "pinyin": "hūlüè zhōuwéi zhòngyào de shì",
+    "meaning": "周囲の大事なことを無視する",
+    "tag": "level4"
+  },
+  {
+    "text": "分享很多影片",
+    "zhuyin": "ㄈㄣ ㄒㄧㄤˇ ㄏㄣˇ ㄉㄨㄛ ㄧㄥˇ ㄆㄧㄢˋ",
+    "pinyin": "fēnxiǎng hěn duō yǐngpiàn",
+    "meaning": "たくさん動画を共有する",
+    "tag": "level2"
+  },
+  {
+    "text": "告訴我為什麼",
+    "zhuyin": "ㄍㄠˋ ㄙㄨˋ ㄨㄛˇ ㄨㄟˋ ㄕㄣˊ ㄇㄜ˙",
+    "pinyin": "gàosù wǒ wèishénme",
+    "meaning": "なぜか教えて",
+    "tag": "level1"
+  },
+  {
+    "text": "個人認為這樣可以",
+    "zhuyin": "ㄍㄜˋ ㄖㄣˊ ㄖㄣˋ ㄨㄟˊ ㄓㄜˋ ㄧㄤˋ ㄎㄜˇ ㄧˇ",
+    "pinyin": "gèrén rènwéi zhèyàng kěyǐ",
+    "meaning": "個人的にはこれでよいと思う",
+    "tag": "level3"
+  },
+  {
+    "text": "不要試圖認識對方",
+    "zhuyin": "ㄅㄨˋ ㄧㄠˋ ㄕˋ ㄊㄨˊ ㄖㄣˋ ㄕˋ ㄉㄨㄟˋ ㄈㄤ",
+    "pinyin": "bú yào shìtú rènshi duìfāng",
+    "meaning": "相手と知り合おうとしない",
+    "tag": "level3"
+  },
+  {
+    "text": "這樣做很奇怪",
+    "zhuyin": "ㄓㄜˋ ㄧㄤˋ ㄗㄨㄛˋ ㄏㄣˇ ㄑㄧˊ ㄍㄨㄞˋ",
+    "pinyin": "zhèyàng zuò hěn qíguài",
+    "meaning": "そうするのは変だ",
+    "tag": "level2"
+  },
+  {
+    "text": "很多人都這樣說",
+    "zhuyin": "ㄏㄣˇ ㄉㄨㄛ ㄖㄣˊ ㄉㄡ ㄓㄜˋ ㄧㄤˋ ㄕㄨㄛ",
+    "pinyin": "hěn duō rén dōu zhèyàng shuō",
+    "meaning": "多くの人がそう言う",
+    "tag": "level2"
+  },
+  {
+    "text": "有時候只是開玩笑",
+    "zhuyin": "ㄧㄡˇ ㄕˊ ㄏㄡˋ ㄓˇ ㄕˋ ㄎㄞ ㄨㄢˊ ㄒㄧㄠˋ",
+    "pinyin": "yǒushíhou zhǐshì kāi wánxiào",
+    "meaning": "時々ただ冗談なだけ",
+    "tag": "level2"
+  },
+  {
+    "text": "第一次聽到就記住",
+    "zhuyin": "ㄉㄧˋ ㄧ ㄘˋ ㄊㄧㄥ ㄉㄠˋ ㄐㄧㄡˋ ㄐㄧˋ ㄓㄨˋ",
+    "pinyin": "dì yī cì tīngdào jiù jìzhù",
+    "meaning": "一度聞いて覚える",
+    "tag": "level3"
+  },
+  {
+    "text": "大家都有歸屬感",
+    "zhuyin": "ㄉㄚˋ ㄐㄧㄚ ㄉㄡ ㄧㄡˇ ㄍㄨㄟ ㄕㄨˇ ㄍㄢˇ",
+    "pinyin": "dàjiā dōu yǒu guīshǔgǎn",
+    "meaning": "みんな帰属感がある",
+    "tag": "level4"
+  },
+  {
+    "text": "以前真的很困擾",
+    "zhuyin": "ㄧˇ ㄑㄧㄢˊ ㄓㄣ ㄉㄜ˙ ㄏㄣˇ ㄎㄨㄣˋ ㄖㄠˇ",
+    "pinyin": "yǐqián zhēn de hěn kùnrǎo",
+    "meaning": "前はかなり悩んでいた",
+    "tag": "level3"
+  },
+  {
+    "text": "通常更受歡迎",
+    "zhuyin": "ㄊㄨㄥ ㄔㄤˊ ㄍㄥˋ ㄕㄡˋ ㄏㄨㄢ ㄧㄥˊ",
+    "pinyin": "tōngcháng gèng shòu huānyíng",
+    "meaning": "普通はより人気がある",
+    "tag": "level2"
+  },
+  {
+    "text": "發音真的很容易",
+    "zhuyin": "ㄈㄚ ㄧㄣ ㄓㄣ ㄉㄜ˙ ㄏㄣˇ ㄖㄨㄥˊ ㄧˋ",
+    "pinyin": "fāyīn zhēn de hěn róngyì",
+    "meaning": "発音が本当に簡単",
+    "tag": "level1"
+  },
+  {
+    "text": "忍受這些噪音",
+    "zhuyin": "ㄖㄣˇ ㄕㄡˋ ㄓㄜˋ ㄒㄧㄝ ㄗㄠˋ ㄧㄣ",
+    "pinyin": "rěnshòu zhèxiē zàoyīn",
+    "meaning": "こういう騒音に耐える",
+    "tag": "level3"
+  },
+  {
+    "text": "產生共鳴效果",
+    "zhuyin": "ㄔㄢˇ ㄕㄥ ㄍㄨㄥˋ ㄇㄧㄥˊ ㄒㄧㄠˋ ㄍㄨㄛˇ",
+    "pinyin": "chǎnshēng gòngmíng xiàoguǒ",
+    "meaning": "共鳴効果を生む",
+    "tag": "level4"
+  },
+
+  {
+    "text": "我只是在網路上搜尋了名字",
+    "zhuyin": "ㄨㄛˇ ㄓˇ ㄕˋ ㄗㄞˋ ㄨㄤˇ ㄌㄨˋ ㄕㄤˋ ㄙㄡ ㄒㄩㄣˊ ㄌㄜ˙ ㄇㄧㄥˊ ㄗ˙",
+    "pinyin": "wǒ zhǐ shì zài wǎnglù shàng sōuxún le míngzi",
+    "meaning": "意味：ネットで名前を検索しただけ",
+    "tag": "level3"
+  },
+  {
+    "text": "然後我把它們一個一個讀了出來",
+    "zhuyin": "ㄖㄢˊ ㄏㄡˋ ㄨㄛˇ ㄅㄚˇ ㄊㄚ ㄇㄣ˙ ㄧˊ ㄍㄜˋ ㄧˊ ㄍㄜˋ ㄉㄨˊ ㄌㄜ˙ ㄔㄨ ㄌㄞˊ",
+    "pinyin": "ránhòu wǒ bǎ tāmen yí ge yí ge dú le chūlái",
+    "meaning": "意味：一つずつ読み上げた",
+    "tag": "level4"
+  },
+  {
+    "text": "凱西只是看著我",
+    "zhuyin": "ㄎㄞˇ ㄒㄧ ㄓˇ ㄕˋ ㄎㄢˋ ㄓㄜ˙ ㄨㄛˇ",
+    "pinyin": "Kǎixī zhǐ shì kànzhe wǒ",
+    "meaning": "意味：ケイシーはただ私を見ていた",
+    "tag": "level2"
+  },
+  {
+    "text": "那是你的名字",
+    "zhuyin": "ㄋㄚˋ ㄕˋ ㄋㄧˇ ㄉㄜ˙ ㄇㄧㄥˊ ㄗ˙",
+    "pinyin": "nà shì nǐ de míngzi",
+    "meaning": "意味：それがあなたの名前",
+    "tag": "level1"
+  },
+  {
+    "text": "這是他們自己選的",
+    "zhuyin": "ㄓㄜˋ ㄕˋ ㄊㄚ ㄇㄣ˙ ㄗˋ ㄐㄧˇ ㄒㄩㄢˇ ㄉㄜ˙",
+    "pinyin": "zhè shì tāmen zìjǐ xuǎn de",
+    "meaning": "意味：彼らが自分で選んだ",
+    "tag": "level2"
+  },
+  {
+    "text": "我沒有強迫他們",
+    "zhuyin": "ㄨㄛˇ ㄇㄟˊ ㄧㄡˇ ㄑㄧㄤˇ ㄆㄛˋ ㄊㄚ ㄇㄣ˙",
+    "pinyin": "wǒ méiyǒu qiǎngpò tāmen",
+    "meaning": "意味：無理に決めていない",
+    "tag": "level3"
+  },
+  {
+    "text": "我最近一直在聽一首歌",
+    "zhuyin": "ㄨㄛˇ ㄗㄨㄟˋ ㄐㄧㄣˋ ㄧˋ ㄓˊ ㄗㄞˋ ㄊㄧㄥ ㄧˋ ㄕㄡˇ ㄍㄜ",
+    "pinyin": "wǒ zuìjìn yìzhí zài tīng yì shǒu gē",
+    "meaning": "意味：最近ずっと曲を聴いている",
+    "tag": "level2"
+  },
+  {
+    "text": "因為我覺得它的旋律很簡單",
+    "zhuyin": "ㄧㄣ ㄨㄟˋ ㄨㄛˇ ㄐㄩㄝˊ ㄉㄜ˙ ㄊㄚ ㄉㄜ˙ ㄒㄩㄢˊ ㄌㄩˋ ㄏㄣˇ ㄐㄧㄢˇ ㄉㄢ",
+    "pinyin": "yīnwèi wǒ juéde tā de xuánlǜ hěn jiǎndān",
+    "meaning": "意味：メロディーがシンプルだと思う",
+    "tag": "level3"
+  },
+  {
+    "text": "大家現在肯定都聽膩了吧",
+    "zhuyin": "ㄉㄚˋ ㄐㄧㄚ ㄒㄧㄢˋ ㄗㄞˋ ㄎㄣˇ ㄉㄧㄥˋ ㄉㄡ ㄊㄧㄥ ㄋㄧˋ ㄌㄜ˙ ㄅㄚ˙",
+    "pinyin": "dàjiā xiànzài kěndìng dōu tīngnì le ba",
+    "meaning": "意味：みんな聞き飽きたよね",
+    "tag": "level3"
+  },
+  {
+    "text": "但我會繼續玩下去",
+    "zhuyin": "ㄉㄢˋ ㄨㄛˇ ㄏㄨㄟˋ ㄐㄧˋ ㄒㄩˋ ㄨㄢˊ ㄒㄧㄚˋ ㄑㄩˋ",
+    "pinyin": "dàn wǒ huì jìxù wán xiàqù",
+    "meaning": "意味：でも続けるよ",
+    "tag": "level2"
+  },
+  {
+    "text": "我個人覺得很好看",
+    "zhuyin": "ㄨㄛˇ ㄍㄜˋ ㄖㄣˊ ㄐㄩㄝˊ ㄉㄜ˙ ㄏㄣˇ ㄏㄠˇ ㄎㄢˋ",
+    "pinyin": "wǒ gèrén juéde hěn hǎokàn",
+    "meaning": "意味：個人的にはすごくいいと思う",
+    "tag": "level2"
+  },
+  {
+    "text": "有時候我覺得自己都快瘋了",
+    "zhuyin": "ㄧㄡˇ ㄕˊ ㄏㄡˋ ㄨㄛˇ ㄐㄩㄝˊ ㄉㄜ˙ ㄗˋ ㄐㄧˇ ㄉㄡ ㄎㄨㄞˋ ㄈㄥ ㄌㄜ˙",
+    "pinyin": "yǒu shíhou wǒ juéde zìjǐ dōu kuài fēng le",
+    "meaning": "意味：自分がおかしくなりそう",
+    "tag": "level5"
+  },
+  {
+    "text": "我會保持身材",
+    "zhuyin": "ㄨㄛˇ ㄏㄨㄟˋ ㄅㄠˇ ㄔˊ ㄕㄣ ㄘㄞˊ",
+    "pinyin": "wǒ huì bǎochí shēncái",
+    "meaning": "意味：体型維持している",
+    "tag": "level2"
+  },
+  {
+    "text": "你必須吃飯",
+    "zhuyin": "ㄋㄧˇ ㄅㄧˋ ㄒㄩ ㄔ ㄈㄢˋ",
+    "pinyin": "nǐ bìxū chīfàn",
+    "meaning": "意味：ちゃんとご飯食べて",
+    "tag": "level1"
+  },
+  {
+    "text": "這已經成了我的習慣",
+    "zhuyin": "ㄓㄜˋ ㄧˇ ㄐㄧㄥ ㄔㄥˊ ㄌㄜ˙ ㄨㄛˇ ㄉㄜ˙ ㄒㄧˊ ㄍㄨㄢˋ",
+    "pinyin": "zhè yǐjīng chéng le wǒ de xíguàn",
+    "meaning": "意味：もう習慣になった",
+    "tag": "level3"
+  },
+  {
+    "text": "我喜歡所有溫馴的動物",
+    "zhuyin": "ㄨㄛˇ ㄒㄧˇ ㄏㄨㄢ ㄙㄨㄛˇ ㄧㄡˇ ㄨㄣ ㄒㄩㄣˋ ㄉㄜ˙ ㄉㄨㄥˋ ㄨˋ",
+    "pinyin": "wǒ xǐhuān suǒyǒu wēnxùn de dòngwù",
+    "meaning": "意味：おとなしい動物が好き",
+    "tag": "level3"
+  },
+  {
+    "text": "有時候我仍然需要一些個人空間",
+    "zhuyin": "ㄧㄡˇ ㄕˊ ㄏㄡˋ ㄨㄛˇ ㄖㄥˊ ㄖㄢˊ ㄒㄩ ㄧㄠˋ ㄧˋ ㄒㄧㄝ ㄍㄜˋ ㄖㄣˊ ㄎㄨㄥ ㄐㄧㄢ",
+    "pinyin": "yǒu shíhou wǒ réngrán xūyào yìxiē gèrén kōngjiān",
+    "meaning": "意味：一人の空間が必要",
+    "tag": "level5"
+  },
+  {
+    "text": "我已經很累了",
+    "zhuyin": "ㄨㄛˇ ㄧˇ ㄐㄧㄥ ㄏㄣˇ ㄌㄟˋ ㄌㄜ˙",
+    "pinyin": "wǒ yǐjīng hěn lèi le",
+    "meaning": "意味：もう疲れた",
+    "tag": "level1"
+  },
+  {
+    "text": "我準備睡覺了",
+    "zhuyin": "ㄨㄛˇ ㄓㄨㄣˇ ㄅㄟˋ ㄕㄨㄟˋ ㄐㄧㄠˋ ㄌㄜ˙",
+    "pinyin": "wǒ zhǔnbèi shuìjiào le",
+    "meaning": "意味：寝る準備してる",
+    "tag": "level1"
+  },
+  {
+    "text": "我喜歡宮崎駿的千與千尋",
+    "zhuyin": "ㄨㄛˇ ㄒㄧˇ ㄏㄨㄢ ㄍㄨㄥ ㄑㄧˊ ㄐㄩㄣˋ ㄉㄜ˙ ㄑㄧㄢ ㄩˇ ㄑㄧㄢ ㄒㄩㄣˊ",
+    "pinyin": "wǒ xǐhuān Gōngqí Jùn de Qiān yǔ Qiānxún",
+    "meaning": "意味：千と千尋が好き",
+    "tag": "level2"
+  },
+
+  {
+    "text": "最近我一直在玩俄羅斯方塊",
+    "zhuyin": "ㄗㄨㄟˋ ㄐㄧㄣˋ ㄨㄛˇ ㄧˋ ㄓˊ ㄗㄞˋ ㄨㄢˊ ㄜˊ ㄌㄨㄛˊ ㄙ ㄈㄤ ㄎㄨㄞˋ",
+    "pinyin": "zuìjìn wǒ yìzhí zài wán Éluósī fāngkuài",
+    "meaning": "意味：最近ずっとテトリスしてる",
+    "tag": "level2"
+  },
+  {
+    "text": "我只是想變得更聰明",
+    "zhuyin": "ㄨㄛˇ ㄓˇ ㄕˋ ㄒㄧㄤˇ ㄅㄧㄢˋ ㄉㄜ˙ ㄍㄥˋ ㄘㄨㄥ ㄇㄧㄥˊ",
+    "pinyin": "wǒ zhǐ shì xiǎng biàn de gèng cōngmíng",
+    "meaning": "意味：もっと賢くなりたい",
+    "tag": "level3"
+  },
+  {
+    "text": "感謝您允許我與您分享這些",
+    "zhuyin": "ㄍㄢˇ ㄒㄧㄝˋ ㄋㄧㄣˊ ㄩㄣˇ ㄒㄩˇ ㄨㄛˇ ㄩˇ ㄋㄧㄣˊ ㄈㄣ ㄒㄧㄤˇ ㄓㄜˋ ㄒㄧㄝ",
+    "pinyin": "gǎnxiè nín yǔnxǔ wǒ yǔ nín fēnxiǎng zhèxiē",
+    "meaning": "意味：共有させてくれてありがとう",
+    "tag": "level4"
+  },
+  {
+    "text": "我最喜歡的音樂是什麼",
+    "zhuyin": "ㄨㄛˇ ㄗㄨㄟˋ ㄒㄧˇ ㄏㄨㄢ ㄉㄜ˙ ㄧㄣ ㄩㄝˋ ㄕˋ ㄕㄣˊ ㄇㄜ˙",
+    "pinyin": "wǒ zuì xǐhuān de yīnyuè shì shénme",
+    "meaning": "意味：一番好きな音楽は何か",
+    "tag": "level2"
+  },
+  {
+    "text": "我覺得很好聽",
+    "zhuyin": "ㄨㄛˇ ㄐㄩㄝˊ ㄉㄜ˙ ㄏㄣˇ ㄏㄠˇ ㄊㄧㄥ",
+    "pinyin": "wǒ juéde hěn hǎotīng",
+    "meaning": "意味：すごくいい曲だと思う",
+    "tag": "level1"
+  },
+  {
+    "text": "它看起來很孤獨",
+    "zhuyin": "ㄊㄚ ㄎㄢˋ ㄑㄧˇ ㄌㄞˊ ㄏㄣˇ ㄍㄨ ㄉㄨˊ",
+    "pinyin": "tā kàn qǐlái hěn gūdú",
+    "meaning": "意味：孤独そうに見える",
+    "tag": "level3"
+  },
+  {
+    "text": "我以前比較喜歡白色",
+    "zhuyin": "ㄨㄛˇ ㄧˇ ㄑㄧㄢˊ ㄅㄧˇ ㄐㄧㄠˋ ㄒㄧˇ ㄏㄨㄢ ㄅㄞˊ ㄙㄜˋ",
+    "pinyin": "wǒ yǐqián bǐjiào xǐhuān báisè",
+    "meaning": "意味：前は白色が好きだった",
+    "tag": "level2"
+  },
+  {
+    "text": "現在我的視野開闊了",
+    "zhuyin": "ㄒㄧㄢˋ ㄗㄞˋ ㄨㄛˇ ㄉㄜ˙ ㄕˋ ㄧㄝˇ ㄎㄞ ㄎㄨㄛˋ ㄌㄜ˙",
+    "pinyin": "xiànzài wǒ de shìyě kāikuò le",
+    "meaning": "意味：今は視野が広がった",
+    "tag": "level4"
+  },
+  {
+    "text": "我開始混合搭配",
+    "zhuyin": "ㄨㄛˇ ㄎㄞ ㄕˇ ㄏㄨㄣˋ ㄏㄜˊ ㄉㄚ ㄆㄟˋ",
+    "pinyin": "wǒ kāishǐ hùnhé dāpèi",
+    "meaning": "意味：組み合わせ始めた",
+    "tag": "level3"
+  },
+  {
+    "text": "因為我的腰很細",
+    "zhuyin": "ㄧㄣ ㄨㄟˋ ㄨㄛˇ ㄉㄜ˙ ㄧㄠ ㄏㄣˇ ㄒㄧˋ",
+    "pinyin": "yīnwèi wǒ de yāo hěn xì",
+    "meaning": "意味：私の腰は細いから",
+    "tag": "level2"
+  },
+  {
+    "text": "穿在我身上很好看",
+    "zhuyin": "ㄔㄨㄢ ㄗㄞˋ ㄨㄛˇ ㄕㄣ ㄕㄤˋ ㄏㄣˇ ㄏㄠˇ ㄎㄢˋ",
+    "pinyin": "chuān zài wǒ shēnshàng hěn hǎokàn",
+    "meaning": "意味：私が着ると似合う",
+    "tag": "level2"
+  },
+  {
+    "text": "你通常如何保持身材",
+    "zhuyin": "ㄋㄧˇ ㄊㄨㄥ ㄔㄤˊ ㄖㄨˊ ㄏㄜˊ ㄅㄠˇ ㄔˊ ㄕㄣ ㄘㄞˊ",
+    "pinyin": "nǐ tōngcháng rúhé bǎochí shēncái",
+    "meaning": "意味：どうやって体型維持してるの",
+    "tag": "level3"
+  },
+  {
+    "text": "我不會刻意運動",
+    "zhuyin": "ㄨㄛˇ ㄅㄨˋ ㄏㄨㄟˋ ㄎㄜˋ ㄧˋ ㄩㄣˋ ㄉㄨㄥˋ",
+    "pinyin": "wǒ bú huì kèyì yùndòng",
+    "meaning": "意味：わざわざ運動はしない",
+    "tag": "level2"
+  },
+  {
+    "text": "避免暴飲暴食",
+    "zhuyin": "ㄅㄧˋ ㄇㄧㄢˇ ㄅㄠˋ ㄧㄣˇ ㄅㄠˋ ㄕˊ",
+    "pinyin": "bìmiǎn bàoyǐn bàoshí",
+    "meaning": "意味：暴飲暴食を避ける",
+    "tag": "level4"
+  },
+  {
+    "text": "工作期間幾乎不吃",
+    "zhuyin": "ㄍㄨㄥ ㄗㄨㄛˋ ㄑㄧˊ ㄐㄧㄢ ㄐㄧ ㄏㄨ ㄅㄨˋ ㄔ",
+    "pinyin": "gōngzuò qíjiān jīhū bù chī",
+    "meaning": "意味：仕事中ほとんど食べない",
+    "tag": "level3"
+  },
+  {
+    "text": "你必須按時吃飯",
+    "zhuyin": "ㄋㄧˇ ㄅㄧˋ ㄒㄩ ㄢˋ ㄕˊ ㄔ ㄈㄢˋ",
+    "pinyin": "nǐ bìxū ànshí chīfàn",
+    "meaning": "意味：時間通り食べないと",
+    "tag": "level2"
+  },
+
+  {
+    "text": "捷運",
+    "zhuyin": "ㄐㄧㄝˊ ㄩㄣˋ",
+    "pinyin": "jiéyùn",
+    "meaning": "意味：地下鉄・都市鉄道（大陸の「地铁」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "公車",
+    "zhuyin": "ㄍㄨㄥ ㄔㄜ",
+    "pinyin": "gōngchē",
+    "meaning": "意味：路線バス（大陸の「公交車」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "計程車",
+    "zhuyin": "ㄐㄧˋ ㄔㄥˊ ㄔㄜ",
+    "pinyin": "jìchéngchē",
+    "meaning": "意味：タクシー（大陸の「出租車」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "機車",
+    "zhuyin": "ㄐㄧ ㄔㄜ",
+    "pinyin": "jīchē",
+    "meaning": "意味：スクーター・バイク（大陸の「摩托車」に相当。スラングで「むかつく、使えない」の意味も）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "腳踏車",
+    "zhuyin": "ㄐㄧㄠˇ ㄊㄚˋ ㄔㄜ",
+    "pinyin": "jiǎotàchē",
+    "meaning": "意味：自転車（大陸の「自行車」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "便當",
+    "zhuyin": "ㄅㄧㄢˋ ㄉㄤ",
+    "pinyin": "biàndāng",
+    "meaning": "意味：お弁当（日本語の「弁当」由来、大陸の「盒飯」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "鳳梨",
+    "zhuyin": "ㄈㄥˋ ㄌㄧˊ",
+    "pinyin": "fènglí",
+    "meaning": "意味：パイナップル（大陸では主に「菠蘿」）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "芭樂",
+    "zhuyin": "ㄅㄚ ㄌㄜˋ",
+    "pinyin": "bālè",
+    "meaning": "意味：グアバ（台湾語由来、大陸では「番石榴」）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "奇異果",
+    "zhuyin": "ㄑㄧˊ ㄧˋ ㄍㄨㄛˇ",
+    "pinyin": "qíyìguǒ",
+    "meaning": "意味：キウイフルーツ（大陸では主に「獼猴桃」）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "馬鈴薯",
+    "zhuyin": "ㄇㄚˇ ㄌㄧㄥˊ ㄕㄨˇ",
+    "pinyin": "mǎlíngshǔ",
+    "meaning": "意味：じゃがいも（大陸の「土豆」に相当。台湾で土豆はピーナッツを指す）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "花椰菜",
+    "zhuyin": "ㄏㄨㄚ ㄧㄝˊ ㄘㄞˋ",
+    "pinyin": "huāyécài",
+    "meaning": "意味：ブロッコリー（大陸の「西蘭花」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "高麗菜",
+    "zhuyin": "ㄍㄠ ㄌㄧˋ ㄘㄞˋ",
+    "pinyin": "gāolìcài",
+    "meaning": "意味：キャベツ（大陸の「圓白菜」「卷心菜」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "鮪魚",
+    "zhuyin": "ㄨㄟˇ ㄩˊ",
+    "pinyin": "wěiyú",
+    "meaning": "意味：マグロ・ツナ（大陸では主に「金槍魚」）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "鮭魚",
+    "zhuyin": "ㄍㄨㄟ ㄩˊ",
+    "pinyin": "guīyú",
+    "meaning": "意味：サケ・サーモン（大陸では主に「三文魚」）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "軟體",
+    "zhuyin": "ㄖㄨㄢˇ ㄊㄧˇ",
+    "pinyin": "ruǎntǐ",
+    "meaning": "意味：ソフトウェア（大陸の「軟件」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "硬體",
+    "zhuyin": "ㄧㄥˋ ㄊㄧˇ",
+    "pinyin": "yìngtǐ",
+    "meaning": "意味：ハードウェア（大陸の「硬件」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "網路",
+    "zhuyin": "ㄨㄤˇ ㄌㄨˋ",
+    "pinyin": "wǎnglù",
+    "meaning": "意味：インターネット（大陸の「網絡」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "影片",
+    "zhuyin": "ㄧㄥˇ ㄆㄧㄢˋ",
+    "pinyin": "yǐngpiàn",
+    "meaning": "意味：動画・ビデオ（大陸の「視頻」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "大頭貼",
+    "zhuyin": "ㄉㄚˋ ㄊㄡˊ ㄊㄧㄝ",
+    "pinyin": "dàtóutiē",
+    "meaning": "意味：プロフィール写真、またはプリクラ（大陸の「頭像」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "螢幕",
+    "zhuyin": "ㄧㄥˊ ㄇㄨˋ",
+    "pinyin": "yíngmù",
+    "meaning": "意味：画面・スクリーン（大陸の「屏幕」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "影印",
+    "zhuyin": "ㄧㄥˇ ㄧㄣˋ",
+    "pinyin": "yǐnyìn",
+    "meaning": "意味：コピーする（大陸の「復印」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "原子筆",
+    "zhuyin": "ㄩㄢˊ ㄗˇ ㄅㄧˇ",
+    "pinyin": "yuánzǐbǐ",
+    "meaning": "意味：ボールペン（大陸の「圓珠筆」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "立可帶",
+    "zhuyin": "ㄌㄧˋ ㄎㄜˇ ㄉㄞˋ",
+    "pinyin": "lìkědài",
+    "meaning": "意味：修正テープ（大陸の「修正帶」に相当。商品名から定着）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "飯店",
+    "zhuyin": "ㄈㄢˋ ㄉㄧㄢˋ",
+    "pinyin": "fàndiàn",
+    "meaning": "意味：ホテル（大陸の「酒店」に相当。台湾で酒店はキャバクラ等を指す）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "民宿",
+    "zhuyin": "ㄇㄧㄣˊ ㄙㄨˋ",
+    "pinyin": "mínsù",
+    "meaning": "意味：ペンション・ゲストハウス（日本語の「民宿」由来、定着した表現）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "列印",
+    "zhuyin": "ㄌㄧㄝˋ ㄧㄣˋ",
+    "pinyin": "lièyìn",
+    "meaning": "意味：印刷する・プリントアウトする（大陸の「打印」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "在地",
+    "zhuyin": "ㄗㄞˋ ㄉㄧˋ",
+    "pinyin": "zàidì",
+    "meaning": "意味：地元の・ローカルな（台湾語由来、大陸の「当地」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "宵夜",
+    "zhuyin": "ㄒㄧㄠ ㄧㄝˋ",
+    "pinyin": "xiāoyè",
+    "meaning": "意味：夜食（大陸では主に「夜宵」）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "古早味",
+    "zhuyin": "ㄍㄨˇ ㄗㄠˇ ㄨㄟˋ",
+    "pinyin": "gǔzǎowèi",
+    "meaning": "意味：昔ながらの味・伝統的な風味（台湾語由来）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "九層塔",
+    "zhuyin": "ㄐㄧㄡˇ ㄘㄥˊ ㄊㄚˇ",
+    "pinyin": "jiǔcéngtǎ",
+    "meaning": "意味：台湾バジル（大陸の「羅勒」に相当するが、台湾独特の品種）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "公休",
+    "zhuyin": "ㄍㄨㄥ ㄒㄧㄡ",
+    "pinyin": "gōngxiū",
+    "meaning": "意味：定休日（お店などの決まった休み。大陸の「店休」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "拜拜",
+    "zhuyin": "ㄅㄞˋ ㄅㄞˋ",
+    "pinyin": "bàibài",
+    "meaning": "意味：神仏やお墓にお参りする（大陸の「祭拜」に相当。英語のBye-byeと同音）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "趴踢",
+    "zhuyin": "ㄆㄚ ㄊㄧˊ",
+    "pinyin": "pātí",
+    "meaning": "意味：パーティー（英語のPartyの音訳、大陸の「派對」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "好康",
+    "zhuyin": "ㄏㄠˇ ㄎㄤ",
+    "pinyin": "hǎokāng",
+    "meaning": "意味：お得なこと、メリット（台湾語由来。例：好康逗相報＝お得情報をシェアする）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "歐兜邁",
+    "zhuyin": "ㄡ ㄉㄡ ㄇㄞˋ",
+    "pinyin": "ōudōumài",
+    "meaning": "意味：バイク・スクーター（日本語の「オートバイ」が台湾語経由で定着）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "黑白講",
+    "zhuyin": "ㄏㄟ ㄅㄞˊ ㄐㄧㄤˇ",
+    "pinyin": "hēibáijiǎng",
+    "meaning": "意味：でたらめを言う、適当なことを言う（台湾語「O-peh-kong」の当て字）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "龜毛",
+    "zhuyin": "ㄍㄨㄟ ㄇㄠ",
+    "pinyin": "guīmáo",
+    "meaning": "意味：細かいことにこだわる、神経質で決断が遅い（台湾語由来のスランぐ）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "凸槌",
+    "zhuyin": "ㄊㄨˊ ㄔㄨㄟˊ",
+    "pinyin": "túchuí",
+    "meaning": "意味：ミスをする、ヘマをやらかす（台湾語由来、ビリヤードのミスショットから）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "抓包",
+    "zhuyin": "ㄓㄨㄚ ㄅㄠ",
+    "pinyin": "zhuābāo",
+    "meaning": "意味：現場を押さえる、悪事を見つける（大陸の「抓現行」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "嗆聲",
+    "zhuyin": "ㄑㄧㄤˋ ㄕㄥ",
+    "pinyin": "qiàngshēng",
+    "meaning": "意味：啖呵を切る、挑発的な発言をする（台湾語由来）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "放閃",
+    "zhuyin": "ㄈㄤˋ ㄕㄢˇ",
+    "pinyin": "fàngshǎn",
+    "meaning": "意味：のろける、ラブラブぶりを見せつける（大陸の「秀恩愛」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "閃光彈",
+    "zhuyin": "ㄕㄢˇ ㄍㄨㄥ ㄉㄢˋ",
+    "pinyin": "shǎnguōngdàn",
+    "meaning": "意味：ネット上での恋人自慢、のろけ投稿（眩しすぎるという意味）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "小鮮肉",
+    "zhuyin": "ㄒㄧㄠˇ ㄒㄧㄢ ㄖㄡˋ",
+    "pinyin": "xiǎoxiānròu",
+    "meaning": "意味：若くてイケメンな男性（台湾のバラエティ番組発祥、後に大陸へ逆輸入）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "正妹",
+    "zhuyin": "ㄓㄥˋ ㄇㄟˋ",
+    "pinyin": "zhèngmèi",
+    "meaning": "意味：可愛い女の子、美少女（大陸の「美女」「靚女」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "水水",
+    "zhuyin": "ㄕㄨㄟˇ ㄕㄨㄟˇ",
+    "pinyin": "shuǐshuǐ",
+    "meaning": "意味：綺麗な女性、お姉さん（台湾語の「美（súi）」を重ねたネットスラング）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "水喔",
+    "zhuyin": "ㄕㄨㄟˇ ㄛ",
+    "pinyin": "shuǐō",
+    "meaning": "意味：いいね！最高！ナイス！（台湾語の「美（súi）」から、素晴らしいの意）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "講電話",
+    "zhuyin": "ㄐㄧㄤˇ ㄉㄧㄢˋ ㄏㄨㄚˋ",
+    "pinyin": "jiǎngdiànhuà",
+    "meaning": "意味：電話で話す・通話する（大陸の「打電話」に相当。通話中の状態を指す事が多い）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "漏勾",
+    "zhuyin": "ㄌㄡˋ ㄍㄡ",
+    "pinyin": "lòugōu",
+    "meaning": "意味：見落とす、リストから漏れる（台湾語由来、大陸の「遺漏」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "趴車",
+    "zhuyin": "ㄆㄚ ㄔㄜ",
+    "pinyin": "pāchē",
+    "meaning": "意味：車を駐車する（英語のParkの音訳、大陸の「停車」に相当）",
+    "tag": "台湾限定"
+  },
+  {
+    "text": "算帳",
+    "zhuyin": "ㄙㄨㄢˋ ㄓㄤˋ",
+    "pinyin": "suànzhàng",
+    "meaning": "意味：お会計をする（大陸の「買單」「結帳」に相当。台湾ではレジでよく使います）",
+    "tag": "台湾限定"
+  }
+]
+
+
+

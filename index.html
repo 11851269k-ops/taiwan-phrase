@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- SEO -->
+  <meta name="description" content="日本人向け台湾華語フレーズ学習アプリ">
+
+  <title>Bopomao | 台湾華語フレーズ</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+
+
+  
+  <main class="phone">
+
+<div class="pattern"></div>
+
+<header>
+
+  <img src="images/logo2.png" class="logo">
+  <p class="subtitle">毎日ひとつ、生きた台湾華語</p>
+
+</header>
+
+<section class="card">
+
+  <div class="top-row">
+
+    <span class="tag" id="tag"></span>
+
+    <select id="tagFilter">
+      <option value="all">すべて</option>
+    </select>
+
+    <div class="progress-wrap">
+
+  <span id="levelText">Lv.1</span>
+
+ <div class="progress" id="progressBar">
+  <div class="progress-fill" id="progressFill"></div>
+ </div>
+
+  <span id="progressText">0/25</span>
+  </div>
+
+  </div>
+
+
+  <div class="card-flip" id="flashcard">
+
+    <div class="card-front">
+      <h2 id="frontMeaning"></h2>
+    </div>
+
+    <div class="card-back">
+
+      <h2 id="backPhrase"></h2>
+
+      <p id="backMeaning"></p>
+
+      <p id="backZhuyin"></p>
+
+      <p id="backPinyin"></p>
+
+    </div>
+
+  </div>
+
+
+  <button id="flipBtn">
+    答えを見る
+  </button>
+
+
+  <button id="nextBtn">
+    次のフレーズ
+  </button>
+
+
+  <div class="icon-row">
+
+    <button id="saveBtn">
+      保存
+    </button>
+
+    <button id="masterBtn">
+      覚えた
+    </button>
+
+    <button id="playBtn">
+      再生
+    </button>
+
+    <button id="reviewCard">
+      復習
+    </button>
+
+  </div>
+
+
+  <section class="saved-section">
+
+    <h3>保存した単語</h3>
+
+    <ul id="savedList"></ul>
+
+  </section>
+
+</section>
+
+<div class="pattern"></div>
+
+<!-- ステッカーコレクション -->
+    <section class="sticker-section">
+      <h3>🍜 台湾グルメコレクション</h3>
+
+      <div class="sticker-grid" id="stickerGrid">
+
+        <div class="sticker locked"><img src="images/sticker1.png" alt=""></div>
+        <div class="sticker locked"><img src="images/sticker2.png" alt=""></div>
+        <div class="sticker locked"><img src="images/sticker3.png" alt=""></div>
+        <div class="sticker locked"><img src="images/sticker4.png" alt=""></div>
+        <div class="sticker locked"><img src="images/sticker5.png" alt=""></div>
+        <div class="sticker locked"><img src="images/sticker6.png" alt=""></div>
+        <div class="sticker locked"><img src="images/sticker7.png" alt=""></div>
+        <div class="sticker locked"><img src="images/sticker8.png" alt=""></div>
+        <div class="sticker locked"><img src="images/sticker9.png" alt=""></div>
+        <div class="sticker locked"><img src="images/sticker10.png" alt=""></div>
+        <div class="sticker locked"><img src="images/sticker11.png" alt=""></div>
+        <div class="sticker locked"><img src="images/sticker12.png" alt=""></div>
+      </div>
+
+      <p id="unlockText">Lv2で最初のステッカー解放</p>
+    </section>
+
+
+  </div>
+
+<div class="pattern"></div>
+
+<section class="footer">
+    <!-- 学習サイト -->
+    <section class="study-site">
+    <a href="https://ko-fi.com/kipano" class="support-link">作者を応援する</a><br>
+    <p class="link-title">台湾華語学習参考サイト</p>
+
+      <ul>
+        <li>
+          <a href="https://www.coelang.tufs.ac.jp/mt/zh-tw/dmod/" target="_blank">
+            東京外国語大学 言語モジュール（台湾華語）
+          </a>
+        </li>
+
+        <li>
+          <a href="https://tocfl.edu.tw/" target="_blank">
+            TOCFL(台湾華語能力試験)
+          </a>
+        </li>
+
+        <li>
+          <a href="https://tocfl.jp/" target="_blank">
+            TOCFL 日本公式サイト
+          </a>
+        </li>
+
+        <li>
+          <a href="https://cbt.sc-top.org.tw/sctopj/ChangeOrder0619.aspx" target="_blank">
+            TOCFL 模擬試題（公式オンライン模擬試験）
+          </a>
+        </li>
+
+      </ul>
+
+    </section>
+
+   </section>
+  
+  <img src="images/logo2.png" class="logo-bottom">
+  <!-- 下帯 -->
+  <div class="pattern"></div>
+
+</main>
+
+<script src="script.js"></script>
+
+
+
+</body>
+</html>
